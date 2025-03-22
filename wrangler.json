@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2024-11-01",
+  "main": "src/index.ts",
+  "name": "shy-bar-bfc3",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "eff784d9-96e0-4304-8181-1f20fd8a966c",
+      "database_name": "quiet-term-8c5b-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
